@@ -1,0 +1,50 @@
+{
+    "WRG-Info": {
+        "settings": {
+            "OpenButton": 0,
+            "HideIcon": true,
+            "HideIconAfter": 30,
+            "IconURL": "",
+            "DisableIconText": false,
+            "IconPosition": 0,
+            "IconTextColor": 0,
+            "OpenOnStart": true,
+            "OpenOnStartOnlyNewPlayers": false,
+            "UpdateInterval": 12
+        },
+        "tabs": [
+            {
+                "tab1": {
+                    "layout": 1,
+                    "buttontext": "Welcome",
+                    "title1": "LETS MAKE WRG GREAT AGAIN!",
+                    "text1": "The server is running by owners that had a hugh cluster on ASE.\nThis is not the official start!\n\n\nMake sure to join the discord or Pls contact an Admin.",
+                    "imageurl": "https://i.imgur.com/mGt3cAF.png"
+                }
+            },
+            {
+                "tab2": {
+                    "layout": 2,
+                    "buttontext": "Settings",
+                    "title1": "Server-Settings:",
+                    "text1": "COMING SOOOON",
+                    "imageurl": "https://i.imgur.com/mGt3cAF.png"
+                }
+            }
+        ],
+        "links": [
+            {
+                "link1": {
+                    "text": "Discord",
+                    "url": "https://discord.gg/wrg-ark-community"
+                }
+            },
+            {
+                "link2": {
+                    "text": "Vote [soon]",
+                    "url": "ko"
+                }
+            }
+        ]
+    }
+}
